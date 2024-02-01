@@ -1,0 +1,951 @@
+year,category,prize_amount,fullname,gender,birth_continent,birth_country
+1901,Physiology or Medicine,150782,Emil Adolf von Behring,male,Europe,Prussia
+1901,Peace,150782,Frédéric Passy,male,Europe,France
+1901,Peace,150782,Jean Henry Dunant,male,Europe,Switzerland
+1901,Chemistry,150782,Jacobus Henricus van 't Hoff,male,Europe,the Netherlands
+1901,Literature,150782,Sully Prudhomme,male,Europe,France
+1901,Physics,150782,Wilhelm Conrad Röntgen,male,Europe,Prussia
+1902,Peace,141847,Charles Albert Gobat,male,Europe,Switzerland
+1902,Peace,141847,_lie Ducommun,male,Europe,Switzerland
+1902,Chemistry,141847,Hermann Emil Fischer,male,Europe,Prussia
+1902,Physics,141847,Hendrik Antoon Lorentz,male,Europe,the Netherlands
+1902,Physics,141847,Pieter Zeeman,male,Europe,the Netherlands
+1902,Physiology or Medicine,141847,Ronald Ross,male,Asia,India
+1902,Literature,141847,Christian Matthias Theodor Mommsen,male,Europe,Schleswig
+1903,Literature,141358,Bjørnstjerne Martinus Bjørnson,male,Europe,Norway
+1903,Physics,141358,Antoine Henri Becquerel,male,Europe,France
+1903,Physics,141358,"Marie Curie, née Sklodowska",female,Europe,Russian Empire
+1903,Physiology or Medicine,141358,Niels Ryberg Finsen,male,Europe,Faroe Islands (Denmark)
+1903,Physics,141358,Pierre Curie,male,Europe,France
+1903,Peace,141358,William Randal Cremer,male,Europe,United Kingdom
+1903,Chemistry,141358,Svante August Arrhenius,male,Europe,Sweden
+1904,Literature,140859,Frédéric Mistral,male,Europe,France
+1904,Peace,140859,,,,
+1904,Physiology or Medicine,140859,Ivan Petrovich Pavlov,male,Europe,Russia
+1904,Literature,140859,José Echegaray y Eizaguirre,male,Europe,Spain
+1904,Physics,140859,Lord Rayleigh (John William Strutt),male,Europe,United Kingdom
+1904,Chemistry,140859,Sir William Ramsay,male,Europe,Scotland
+1905,Chemistry,138089,Johann Friedrich Wilhelm Adolf von Baeyer,male,Europe,Prussia
+1905,Peace,138089,"Baroness Bertha Sophie Felicita von Suttner, née Countess Kinsky von Chinic und Tettau",female,Europe,Austrian Empire
+1905,Literature,138089,Henryk Sienkiewicz,male,Europe,Poland
+1905,Physics,138089,Philipp Eduard Anton von Lenard,male,Europe,Hungary
+1905,Physiology or Medicine,138089,Robert Koch,male,Europe,Germany
+1906,Physiology or Medicine,138536,Camillo Golgi,male,Europe,Italy
+1906,Literature,138536,Giosuè Carducci,male,Europe,Tuscany
+1906,Chemistry,138536,Henri Moissan,male,Europe,France
+1906,Physics,138536,Joseph John Thomson,male,Europe,United Kingdom
+1906,Physiology or Medicine,138536,Santiago Ramón y Cajal,male,Europe,Spain
+1906,Peace,138536,Theodore Roosevelt Jr,male,North America,USA
+1907,Physics,138796,Albert Abraham Michelson,male,Europe,Prussia
+1907,Physiology or Medicine,138796,Charles Louis Alphonse Laveran,male,Europe,France
+1907,Chemistry,138796,Eduard Buchner,male,Europe,Bavaria
+1907,Peace,138796,Ernesto Teodoro Moneta,male,Europe,Austrian Empire
+1907,Peace,138796,Louis Renault,male,Europe,France
+1907,Literature,138796,Rudyard Kipling,male,Asia,British India
+1908,Chemistry,139800,Ernest Rutherford,male,Oceania,New Zealand
+1908,Peace,139800,Fredrik Bajer,male,Europe,Denmark
+1908,Physics,139800,Gabriel Lippmann,male,Europe,Luxembourg
+1908,Physiology or Medicine,139800,Ilya Ilyich Mechnikov,male,Europe,Russian Empire
+1908,Peace,139800,Klas Pontus Arnoldson,male,Europe,Sweden
+1908,Physiology or Medicine,139800,Paul Ehrlich,male,Europe,Prussia
+1908,Literature,139800,Rudolf Christoph Eucken,male,Europe,East Friesland
+1909,Peace,139800,Auguste Marie François Beernaert,male,Europe,Belgium
+1909,Physics,139800,Karl Ferdinand Braun,male,Europe,Hesse-Kassel
+1909,Physics,139800,Guglielmo Marconi,male,Europe,Italy
+1909,Peace,139800,"Paul Henri Benjamin Balluet d'Estournelles de Constant, Baron de Constant de Rebecque",male,Europe,France
+1909,Literature,139800,Selma Ottilia Lovisa Lagerlöf,female,Europe,Sweden
+1909,Physiology or Medicine,139800,Emil Theodor Kocher,male,Europe,Switzerland
+1909,Chemistry,139800,Wilhelm Ostwald,male,Europe,Russian Empire
+1910,Physiology or Medicine,140703,Albrecht Kossel,male,Europe,Mecklenburg
+1910,Physics,140703,Johannes Diderik van der Waals,male,Europe,the Netherlands
+1910,Chemistry,140703,Otto Wallach,male,Europe,Germany
+1910,Literature,140703,Paul Johann Ludwig Heyse,male,Europe,Prussia
+1910,Peace,140703,,,,
+1911,Peace,140695,Alfred Hermann Fried,male,Europe,Austria
+1911,Physiology or Medicine,140695,Allvar Gullstrand,male,Europe,Sweden
+1911,Literature,140695,Count Maurice (Mooris) Polidore Marie Bernhard Maeterlinck,male,Europe,Belgium
+1911,Peace,140695,Tobias Michael Carel Asser,male,Europe,the Netherlands
+1911,Physics,140695,Wilhelm Wien,male,Europe,Prussia
+1911,Chemistry,140695,"Marie Curie, née Sklodowska",female,Europe,Russian Empire
+1912,Physiology or Medicine,140476,Alexis Carrel,male,Europe,France
+1912,Peace,140476,Elihu Root,male,North America,USA
+1912,Literature,140476,Gerhart Johann Robert Hauptmann,male,Europe,Prussia
+1912,Physics,140476,Nils Gustaf Dalén,male,Europe,Sweden
+1912,Chemistry,140476,Paul Sabatier,male,Europe,France
+1912,Chemistry,140476,Victor Grignard,male,Europe,France
+1913,Chemistry,143010,Alfred Werner,male,Europe,France
+1913,Physiology or Medicine,143010,Charles Robert Richet,male,Europe,France
+1913,Physics,143010,Heike Kamerlingh Onnes,male,Europe,the Netherlands
+1913,Peace,143010,Henri La Fontaine,male,Europe,Belgium
+1913,Literature,143010,Rabindranath Tagore,male,Asia,India
+1914,Physics,146900,Max von Laue,male,Europe,Germany
+1914,Physiology or Medicine,146900,Robert Bárány,male,Europe,Austria
+1914,Chemistry,146900,Theodore William Richards,male,North America,USA
+1915,Physics,149223,William Lawrence Bragg,male,Oceania,Australia
+1915,Chemistry,149223,Richard Martin Willstätter,male,Europe,Germany
+1915,Literature,149223,Romain Rolland,male,Europe,France
+1915,Physics,149223,Sir William Henry Bragg,male,Europe,United Kingdom
+1916,Literature,131793,Carl Gustaf Verner von Heidenstam,male,Europe,Sweden
+1917,Physics,133823,Charles Glover Barkla,male,Europe,United Kingdom
+1917,Literature,133823,Henrik Pontoppidan,male,Europe,Denmark
+1917,Peace,133823,,,,
+1917,Literature,133823,Karl Adolph Gjellerup,male,Europe,Denmark
+1918,Chemistry,138198,Fritz Haber,male,Europe,Prussia
+1918,Physics,138198,Max Karl Ernst Ludwig Planck,male,Europe,Schleswig
+1919,Literature,133127,Carl Friedrich Georg Spitteler,male,Europe,Switzerland
+1919,Physics,133127,Johannes Stark,male,Europe,Germany
+1919,Physiology or Medicine,133127,Jules Bordet,male,Europe,Belgium
+1919,Peace,133127,Thomas Woodrow Wilson,male,North America,USA
+1920,Physiology or Medicine,134100,Schack August Steenberg Krogh,male,Europe,Denmark
+1920,Physics,134100,Charles Edouard Guillaume,male,Europe,Switzerland
+1920,Literature,134100,Knut Pedersen Hamsun,male,Europe,Norway
+1920,Peace,134100,Léon Victor Auguste Bourgeois,male,Europe,France
+1920,Chemistry,134100,Walther Hermann Nernst,male,Europe,Prussia
+1921,Physics,121573,Albert Einstein,male,Europe,Germany
+1921,Literature,121573,Anatole France,male,Europe,France
+1921,Peace,121573,Christian Lous Lange,male,Europe,Norway
+1921,Chemistry,121573,Frederick Soddy,male,Europe,United Kingdom
+1921,Peace,121573,Karl Hjalmar Branting,male,Europe,Sweden
+1922,Physiology or Medicine,122483,Archibald Vivian Hill,male,Europe,United Kingdom
+1922,Chemistry,122483,Francis William Aston,male,Europe,United Kingdom
+1922,Peace,122483,Fridtjof Nansen,male,Europe,Norway
+1922,Literature,122483,Jacinto Benavente,male,Europe,Spain
+1922,Physics,122483,Niels Henrik David Bohr,male,Europe,Denmark
+1922,Physiology or Medicine,122483,Otto Fritz Meyerhof,male,Europe,Germany
+1923,Physiology or Medicine,114935,Frederick Grant Banting,male,North America,Canada
+1923,Chemistry,114935,Fritz Pregl,male,Europe,Austria-Hungary
+1923,Physiology or Medicine,114935,John James Rickard Macleod,male,Europe,Scotland
+1923,Physics,114935,Robert Andrews Millikan,male,North America,USA
+1923,Literature,114935,William Butler Yeats,male,Europe,Ireland
+1924,Physics,116719,Karl Manne Georg Siegbahn,male,Europe,Sweden
+1924,Physiology or Medicine,116719,Willem Einthoven,male,Asia,"Java, Dutch East Indies"
+1924,Literature,116719,Wladyslaw Stanislaw Reymont,male,Europe,Russian Empire
+1925,Peace,118165,Charles Gates Dawes,male,North America,USA
+1925,Literature,118165,George Bernard Shaw,male,Europe,Ireland
+1925,Physics,118165,Gustav Ludwig Hertz,male,Europe,Germany
+1925,Physics,118165,James Franck,male,Europe,Germany
+1925,Chemistry,118165,Richard Adolf Zsigmondy,male,Europe,Austrian Empire
+1925,Peace,118165,Sir Austen Chamberlain,male,Europe,United Kingdom
+1926,Peace,116960,Aristide Briand,male,Europe,France
+1926,Literature,116960,Grazia Deledda,female,Europe,Italy
+1926,Peace,116960,Gustav Stresemann,male,Europe,Germany
+1926,Physics,116960,Jean Baptiste Perrin,male,Europe,France
+1926,Physiology or Medicine,116960,Johannes Andreas Grib Fibiger,male,Europe,Denmark
+1926,Chemistry,116960,The (Theodor) Svedberg,male,Europe,Sweden
+1927,Physics,126501,Arthur Holly Compton,male,North America,USA
+1927,Physics,126501,Charles Thomson Rees Wilson,male,Europe,Scotland
+1927,Peace,126501,Ferdinand Buisson,male,Europe,France
+1927,Chemistry,126501,Heinrich Otto Wieland,male,Europe,Germany
+1927,Literature,126501,Henri Bergson,male,Europe,France
+1927,Physiology or Medicine,126501,Julius Wagner-Jauregg,male,Europe,Austria
+1927,Peace,126501,Ludwig Quidde,male,Europe,Germany
+1928,Chemistry,156939,Adolf Otto Reinhold Windaus,male,Europe,Germany
+1928,Physiology or Medicine,156939,Charles Jules Henri Nicolle,male,Europe,France
+1928,Physics,156939,Owen Willans Richardson,male,Europe,United Kingdom
+1928,Literature,156939,Sigrid Undset,female,Europe,Denmark
+1929,Chemistry,172760,Arthur Harden,male,Europe,United Kingdom
+1929,Physiology or Medicine,172760,Christiaan Eijkman,male,Europe,the Netherlands
+1929,Peace,172760,Frank Billings Kellogg,male,North America,USA
+1929,Chemistry,172760,Hans Karl August Simon von Euler-Chelpin,male,Europe,Germany
+1929,Physics,172760,Prince Louis-Victor Pierre Raymond de Broglie,male,Europe,France
+1929,Physiology or Medicine,172760,Sir Frederick Gowland Hopkins,male,Europe,United Kingdom
+1929,Literature,172760,Thomas Mann,male,Europe,Germany
+1930,Chemistry,172947,Hans Fischer,male,Europe,Germany
+1930,Physiology or Medicine,172947,Karl Landsteiner,male,Europe,Austrian Empire
+1930,Peace,172947,Lars Olof Jonathan (Nathan) Söderblom,male,Europe,Sweden
+1930,Literature,172947,Sinclair Lewis,male,North America,USA
+1930,Physics,172947,Sir Chandrasekhara Venkata Raman,male,Asia,India
+1931,Chemistry,173206,Carl Bosch,male,Europe,Germany
+1931,Literature,173206,Erik Axel Karlfeldt,male,Europe,Sweden
+1931,Chemistry,173206,Friedrich Bergius,male,Europe,Germany
+1931,Peace,173206,Jane Addams,female,North America,USA
+1931,Peace,173206,Nicholas Murray Butler,male,North America,USA
+1931,Physiology or Medicine,173206,Otto Heinrich Warburg,male,Europe,Germany
+1932,Physiology or Medicine,171753,Edgar Douglas Adrian,male,Europe,United Kingdom
+1932,Chemistry,171753,Irving Langmuir,male,North America,USA
+1932,Literature,171753,John Galsworthy,male,Europe,United Kingdom
+1932,Physiology or Medicine,171753,Sir Charles Scott Sherrington,male,Europe,United Kingdom
+1932,Physics,171753,Werner Karl Heisenberg,male,Europe,Germany
+1933,Physics,170332,Erwin Schrödinger,male,Europe,Austria
+1933,Literature,170332,Ivan Alekseyevich Bunin,male,Europe,Russia
+1933,Physics,170332,Paul Adrien Maurice Dirac,male,Europe,United Kingdom
+1933,Peace,170332,Sir Norman Angell (Ralph Lane),male,Europe,United Kingdom
+1933,Physiology or Medicine,170332,Thomas Hunt Morgan,male,North America,USA
+1934,Peace,162608,Arthur Henderson,male,Europe,Scotland
+1934,Physiology or Medicine,162608,George Hoyt Whipple,male,North America,USA
+1934,Physiology or Medicine,162608,George Richards Minot,male,North America,USA
+1934,Chemistry,162608,Harold Clayton Urey,male,North America,USA
+1934,Literature,162608,Luigi Pirandello,male,Europe,Italy
+1934,Physiology or Medicine,162608,William Parry Murphy,male,North America,USA
+1935,Peace,159917,Carl von Ossietzky,male,Europe,Germany
+1935,Chemistry,159917,Frédéric Joliot,male,Europe,France
+1935,Physiology or Medicine,159917,Hans Spemann,male,Europe,Württemberg
+1935,Chemistry,159917,Irène Joliot-Curie,female,Europe,France
+1935,Physics,159917,James Chadwick,male,Europe,United Kingdom
+1936,Physics,159850,Carl David Anderson,male,North America,USA
+1936,Peace,159850,Carlos Saavedra Lamas,male,South America,Argentina
+1936,Literature,159850,Eugene Gladstone O'Neill,male,North America,USA
+1936,Physiology or Medicine,159850,Otto Loewi,male,Europe,Germany
+1936,Chemistry,159850,Petrus (Peter) Josephus Wilhelmus Debye,male,Europe,the Netherlands
+1936,Physiology or Medicine,159850,Sir Henry Hallett Dale,male,Europe,United Kingdom
+1936,Physics,159850,Victor Franz Hess,male,Europe,Austria
+1937,Physiology or Medicine,158463,Albert von Szent-Györgyi Nagyrápolt,male,Europe,Austria-Hungary
+1937,Physics,158463,Clinton Joseph Davisson,male,North America,USA
+1937,Physics,158463,George Paget Thomson,male,Europe,United Kingdom
+1937,Chemistry,158463,Walter Norman Haworth,male,Europe,United Kingdom
+1937,Chemistry,158463,Paul Karrer,male,Europe,Russia
+1937,Peace,158463,"Edgar Algernon Robert Gascoyne-Cecil, 1st Viscount Cecil of Chelwood",male,Europe,United Kingdom
+1937,Literature,158463,Roger Martin du Gard,male,Europe,France
+1938,Physiology or Medicine,155077,Corneille Jean François Heymans,male,Europe,Belgium
+1938,Physics,155077,Enrico Fermi,male,Europe,Italy
+1938,Peace,155077,,,,
+1938,Literature,155077,Pearl Buck,female,North America,USA
+1938,Chemistry,155077,Richard Kuhn,male,Europe,Austria-Hungary
+1939,Chemistry,148822,Adolf Friedrich Johann Butenandt,male,Europe,Germany
+1939,Physics,148822,Ernest Orlando Lawrence,male,North America,USA
+1939,Literature,148822,Frans Eemil Sillanpää,male,Europe,Russian Empire
+1939,Physiology or Medicine,148822,Gerhard Domagk,male,Europe,Germany
+1939,Chemistry,148822,Leopold Ruzicka,male,Europe,Austria-Hungary
+1943,Physiology or Medicine,123691,Edward Adelbert Doisy,male,North America,USA
+1943,Chemistry,123691,George de Hevesy,male,Europe,Austria-Hungary
+1943,Physiology or Medicine,123691,Henrik Carl Peter Dam,male,Europe,Denmark
+1943,Physics,123691,Otto Stern,male,Europe,Germany
+1944,Physiology or Medicine,121841,Herbert Spencer Gasser,male,North America,USA
+1944,Physics,121841,Isidor Isaac Rabi,male,Europe,Austria-Hungary
+1944,Literature,121841,Johannes Vilhelm Jensen,male,Europe,Denmark
+1944,Physiology or Medicine,121841,Joseph Erlanger,male,North America,USA
+1944,Chemistry,121841,Otto Hahn,male,Europe,Germany
+1944,Peace,121841,,,,
+1945,Chemistry,121333,Artturi Ilmari Virtanen,male,Europe,Russian Empire
+1945,Peace,121333,Cordell Hull,male,North America,USA
+1945,Physiology or Medicine,121333,Ernst Boris Chain,male,Europe,Germany
+1945,Literature,121333,Gabriela Mistral,female,South America,Chile
+1945,Physiology or Medicine,121333,Sir Alexander Fleming,male,Europe,Scotland
+1945,Physiology or Medicine,121333,Sir Howard Walter Florey,male,Oceania,Australia
+1945,Physics,121333,Wolfgang Pauli,male,Europe,Austria
+1946,Peace,121524,Emily Greene Balch,female,North America,USA
+1946,Literature,121524,Hermann Hesse,male,Europe,Germany
+1946,Physiology or Medicine,121524,Hermann Joseph Muller,male,North America,USA
+1946,Chemistry,121524,James Batcheller Sumner,male,North America,USA
+1946,Chemistry,121524,John Howard Northrop,male,North America,USA
+1946,Peace,121524,John Raleigh Mott,male,North America,USA
+1946,Physics,121524,Percy Williams Bridgman,male,North America,USA
+1946,Chemistry,121524,Wendell Meredith Stanley,male,North America,USA
+1947,Peace,146115,,,,
+1947,Literature,146115,André Paul Guillaume Gide,male,Europe,France
+1947,Physiology or Medicine,146115,Bernardo Alberto Houssay,male,South America,Argentina
+1947,Physiology or Medicine,146115,Carl Ferdinand Cori,male,Europe,Austria-Hungary
+1947,Physics,146115,Sir Edward Victor Appleton,male,Europe,United Kingdom
+1947,Peace,146115,,,,
+1947,Physiology or Medicine,146115,"Gerty Theresa Cori, née Radnitz",female,Europe,Austria-Hungary
+1947,Chemistry,146115,Sir Robert Robinson,male,Europe,United Kingdom
+1948,Chemistry,159773,Arne Wilhelm Kaurin Tiselius,male,Europe,Sweden
+1948,Physics,159773,Patrick Maynard Stuart Blackett,male,Europe,United Kingdom
+1948,Physiology or Medicine,159773,Paul Hermann Müller,male,Europe,Switzerland
+1948,Literature,159773,Thomas Stearns Eliot,male,North America,USA
+1949,Physiology or Medicine,156290,Antonio Caetano de Abreu Freire Egas Moniz,male,Europe,Portugal
+1949,Physics,156290,Hideki Yukawa,male,Asia,Japan
+1949,Peace,156290,"John Boyd Orr, Baron Boyd-Orr of Brechin Mearn",male,Europe,Scotland
+1949,Physiology or Medicine,156290,Walter Rudolf Hess,male,Europe,Switzerland
+1949,Chemistry,156290,William Francis Giauque,male,North America,Canada
+1949,Literature,156290,William Faulkner,male,North America,USA
+1950,Literature,164304,Earl (Bertrand Arthur William) Russell,male,Europe,United Kingdom
+1950,Physics,164304,Cecil Frank Powell,male,Europe,United Kingdom
+1950,Physiology or Medicine,164304,Edward Calvin Kendall,male,North America,USA
+1950,Chemistry,164304,Kurt Alder,male,Europe,Prussia
+1950,Chemistry,164304,Otto Paul Hermann Diels,male,Europe,Germany
+1950,Physiology or Medicine,164304,Philip Showalter Hench,male,North America,USA
+1950,Peace,164304,Ralph Bunche,male,North America,USA
+1950,Physiology or Medicine,164304,Tadeus Reichstein,male,Europe,Poland
+1951,Chemistry,167612,Edwin Mattison McMillan,male,North America,USA
+1951,Physics,167612,Ernest Thomas Sinton Walton,male,Europe,Ireland
+1951,Chemistry,167612,Glenn Theodore Seaborg,male,North America,USA
+1951,Physics,167612,Sir John Douglas Cockcroft,male,Europe,United Kingdom
+1951,Peace,167612,Léon Jouhaux,male,Europe,France
+1951,Physiology or Medicine,167612,Max Theiler,male,Africa,South Africa
+1951,Literature,167612,Pär Fabian Lagerkvist,male,Europe,Sweden
+1952,Peace,171135,Albert Schweitzer,male,Europe,Germany
+1952,Chemistry,171135,Archer John Porter Martin,male,Europe,United Kingdom
+1952,Physics,171135,Edward Mills Purcell,male,North America,USA
+1952,Physics,171135,Felix Bloch,male,Europe,Switzerland
+1952,Literature,171135,François Mauriac,male,Europe,France
+1952,Chemistry,171135,Richard Laurence Millington Synge,male,Europe,United Kingdom
+1952,Physiology or Medicine,171135,Selman Abraham Waksman,male,Europe,Russian Empire
+1953,Physics,175293,Frits Zernike,male,Europe,the Netherlands
+1953,Physiology or Medicine,175293,Fritz Albert Lipmann,male,Europe,Germany
+1953,Peace,175293,George Catlett Marshall,male,North America,USA
+1953,Physiology or Medicine,175293,Hans Adolf Krebs,male,Europe,Germany
+1953,Chemistry,175293,Hermann Staudinger,male,Europe,Germany
+1953,Literature,175293,Sir Winston Leonard Spencer Churchill,male,Europe,United Kingdom
+1954,Literature,181647,Ernest Miller Hemingway,male,North America,USA
+1954,Physiology or Medicine,181647,Frederick Chapman Robbins,male,North America,USA
+1954,Physiology or Medicine,181647,John Franklin Enders,male,North America,USA
+1954,Physics,181647,Max Born,male,Europe,Germany
+1954,Peace,181647,,,,
+1954,Physiology or Medicine,181647,Thomas Huckle Weller,male,North America,USA
+1954,Physics,181647,Walther Bothe,male,Europe,Germany
+1954,Chemistry,181647,Linus Carl Pauling,male,North America,USA
+1955,Literature,190214,Halldór Kiljan Laxness,male,Europe,Iceland
+1955,Physiology or Medicine,190214,Axel Hugo Theodor Theorell,male,Europe,Sweden
+1955,Physics,190214,Polykarp Kusch,male,Europe,Germany
+1955,Chemistry,190214,Vincent du Vigneaud,male,North America,USA
+1955,Physics,190214,Willis Eugene Lamb,male,North America,USA
+1956,Physiology or Medicine,200123,André Frédéric Cournand,male,Europe,France
+1956,Physiology or Medicine,200123,Dickinson W. Richards,male,North America,USA
+1956,Physics,200123,John Bardeen,male,North America,USA
+1956,Literature,200123,Juan Ramón Jiménez,male,Europe,Spain
+1956,Chemistry,200123,Nikolay Nikolaevich Semenov,male,Europe,Russia
+1956,Chemistry,200123,Sir Cyril Norman Hinshelwood,male,Europe,United Kingdom
+1956,Physics,200123,Walter Houser Brattain,male,Asia,China
+1956,Physiology or Medicine,200123,Werner Forssmann,male,Europe,Germany
+1956,Physics,200123,William Bradford Shockley,male,Europe,United Kingdom
+1957,Literature,208629,Albert Camus,male,Africa,French Algeria
+1957,Physics,208629,Chen Ning Yang,male,Asia,China
+1957,Physiology or Medicine,208629,Daniel Bovet,male,Europe,Switzerland
+1957,Peace,208629,Lester Bowles Pearson,male,North America,Canada
+1957,Chemistry,208629,Lord (Alexander R.) Todd,male,Europe,Scotland
+1957,Physics,208629,Tsung-Dao (T.D.) Lee,male,Asia,China
+1958,Literature,214559,Boris Leonidovich Pasternak,male,Europe,Russia
+1958,Physiology or Medicine,214559,Edward Lawrie Tatum,male,North America,USA
+1958,Chemistry,214559,Frederick Sanger,male,Europe,United Kingdom
+1958,Physiology or Medicine,214559,George Wells Beadle,male,North America,USA
+1958,Peace,214559,Georges Pire,male,Europe,Belgium
+1958,Physics,214559,Igor Yevgenyevich Tamm,male,Europe,Russia
+1958,Physics,214559,Il´ja Mikhailovich Frank,male,Europe,Russia
+1958,Physiology or Medicine,214559,Joshua Lederberg,male,North America,USA
+1958,Physics,214559,Pavel Alekseyevich Cherenkov,male,Europe,Russia
+1959,Physiology or Medicine,220678,Arthur Kornberg,male,North America,USA
+1959,Physics,220678,Emilio Gino Segrè,male,Europe,Italy
+1959,Chemistry,220678,Jaroslav Heyrovsky,male,Europe,Austria-Hungary
+1959,Physics,220678,Owen Chamberlain,male,North America,USA
+1959,Peace,220678,Philip J. Noel-Baker,male,Europe,United Kingdom
+1959,Literature,220678,Salvatore Quasimodo,male,Europe,Italy
+1959,Physiology or Medicine,220678,Severo Ochoa,male,Europe,Spain
+1960,Peace,225987,Albert John Luthuli,male,Africa,Southern Rhodesia
+1960,Physics,225987,Donald Arthur Glaser,male,North America,USA
+1960,Physiology or Medicine,225987,Peter Brian Medawar,male,South America,Brazil
+1960,Literature,225987,Saint-John Perse,male,North America,Guadeloupe Island
+1960,Physiology or Medicine,225987,Sir Frank Macfarlane Burnet,male,Oceania,Australia
+1960,Chemistry,225987,Willard Frank Libby,male,North America,USA
+1961,Peace,250233,Dag Hjalmar Agne Carl Hammarskjöld,male,Europe,Sweden
+1961,Physiology or Medicine,250233,Georg von Békésy,male,Europe,Hungary
+1961,Literature,250233,Ivo Andric,male,Europe,Bosnia
+1961,Chemistry,250233,Melvin Calvin,male,North America,USA
+1961,Physics,250233,Robert Hofstadter,male,North America,USA
+1961,Physics,250233,Rudolf Ludwig Mössbauer,male,Europe,Germany
+1962,Physiology or Medicine,257220,Francis Harry Compton Crick,male,Europe,United Kingdom
+1962,Physiology or Medicine,257220,James Dewey Watson,male,North America,USA
+1962,Chemistry,257220,John Cowdery Kendrew,male,Europe,United Kingdom
+1962,Literature,257220,John Steinbeck,male,North America,USA
+1962,Physics,257220,Lev Davidovich Landau,male,Asia,Russian Empire
+1962,Peace,257220,Linus Carl Pauling,male,North America,USA
+1962,Physiology or Medicine,257220,Maurice Hugh Frederick Wilkins,male,Oceania,New Zealand
+1962,Chemistry,257220,Max Ferdinand Perutz,male,Europe,Austria
+1963,Physiology or Medicine,265000,Alan Lloyd Hodgkin,male,Europe,United Kingdom
+1963,Physiology or Medicine,265000,Andrew Fielding Huxley,male,Europe,United Kingdom
+1963,Physics,265000,Eugene Paul Wigner,male,Europe,Austria-Hungary
+1963,Literature,265000,Giorgos Seferis,male,Asia,Ottoman Empire
+1963,Chemistry,265000,Giulio Natta,male,Europe,Italy
+1963,Physics,265000,J. Hans D. Jensen,male,Europe,Germany
+1963,Chemistry,265000,Karl Ziegler,male,Europe,Germany
+1963,Peace,265000,,,,
+1963,Physics,265000,Maria Goeppert Mayer,female,Europe,Germany
+1963,Physiology or Medicine,265000,Sir John Carew Eccles,male,Oceania,Australia
+1963,Peace,265000,,,,
+1964,Physics,273000,Aleksandr Mikhailovich Prokhorov,male,Oceania,Australia
+1964,Physics,273000,Charles Hard Townes,male,North America,USA
+1964,Chemistry,273000,Dorothy Crowfoot Hodgkin,female,Africa,Egypt
+1964,Physiology or Medicine,273000,Feodor Lynen,male,Europe,Germany
+1964,Literature,273000,Jean-Paul Sartre,male,Europe,France
+1964,Physiology or Medicine,273000,Konrad Bloch,male,Europe,Germany
+1964,Peace,273000,Martin Luther King Jr.,male,North America,USA
+1964,Physics,273000,Nicolay Gennadiyevich Basov,male,Europe,USSR
+1965,Physiology or Medicine,282000,André Lwoff,male,Europe,France
+1965,Physiology or Medicine,282000,François Jacob,male,Europe,France
+1965,Physiology or Medicine,282000,Jacques Monod,male,Europe,France
+1965,Physics,282000,Julian Schwinger,male,North America,USA
+1965,Literature,282000,Mikhail Aleksandrovich Sholokhov,male,Europe,Russia
+1965,Physics,282000,Richard P. Feynman,male,North America,USA
+1965,Chemistry,282000,Robert Burns Woodward,male,North America,USA
+1965,Physics,282000,Sin-Itiro Tomonaga,male,Asia,Japan
+1965,Peace,282000,,,,
+1966,Physics,300000,Alfred Kastler,male,Europe,Germany
+1966,Physiology or Medicine,300000,Charles Brenton Huggins,male,North America,Canada
+1966,Literature,300000,Nelly Sachs,female,Europe,Germany
+1966,Physiology or Medicine,300000,Peyton Rous,male,North America,USA
+1966,Chemistry,300000,Robert S. Mulliken,male,North America,USA
+1966,Literature,300000,Shmuel Yosef Agnon,male,Europe,Austria-Hungary
+1967,Chemistry,320000,George Porter,male,Europe,United Kingdom
+1967,Physiology or Medicine,320000,George Wald,male,North America,USA
+1967,Physics,320000,Hans Albrecht Bethe,male,Europe,Germany
+1967,Physiology or Medicine,320000,Haldan Keffer Hartline,male,North America,USA
+1967,Chemistry,320000,Manfred Eigen,male,Europe,Germany
+1967,Literature,320000,Miguel Angel Asturias,male,North America,Guatemala
+1967,Physiology or Medicine,320000,Ragnar Granit,male,Europe,Russian Empire
+1967,Chemistry,320000,Ronald George Wreyford Norrish,male,Europe,United Kingdom
+1968,Physiology or Medicine,350000,Har Gobind Khorana,male,Asia,India
+1968,Chemistry,350000,Lars Onsager,male,Europe,Norway
+1968,Physics,350000,Luis Walter Alvarez,male,North America,USA
+1968,Physiology or Medicine,350000,Marshall W. Nirenberg,male,North America,USA
+1968,Peace,350000,René Cassin,male,Europe,France
+1968,Physiology or Medicine,350000,Robert W. Holley,male,North America,USA
+1968,Literature,350000,Yasunari Kawabata,male,Asia,Japan
+1969,Physiology or Medicine,375000,Alfred D. Hershey,male,North America,USA
+1969,Chemistry,375000,Derek H. R. Barton,male,Europe,United Kingdom
+1969,Peace,375000,,,,
+1969,Economic Sciences,375000,Jan Tinbergen,male,Europe,the Netherlands
+1969,Physiology or Medicine,375000,Max Delbrück,male,Europe,Germany
+1969,Physics,375000,Murray Gell-Mann,male,North America,USA
+1969,Chemistry,375000,Odd Hassel,male,Europe,Norway
+1969,Economic Sciences,375000,Ragnar Frisch,male,Europe,Norway
+1969,Physiology or Medicine,375000,Salvador E. Luria,male,Europe,Italy
+1969,Literature,375000,Samuel Beckett,male,Europe,Ireland
+1970,Literature,400000,Aleksandr Isayevich Solzhenitsyn,male,Europe,Russia
+1970,Physics,400000,Hannes Olof Gösta Alfvén,male,Europe,Sweden
+1970,Physiology or Medicine,400000,Julius Axelrod,male,North America,USA
+1970,Physics,400000,Louis Eugène Félix Néel,male,Europe,France
+1970,Chemistry,400000,Luis F. Leloir,male,Europe,France
+1970,Peace,400000,Norman Ernest Borlaug,male,North America,USA
+1970,Economic Sciences,400000,Paul A. Samuelson,male,North America,USA
+1970,Physiology or Medicine,400000,Sir Bernard Katz,male,Europe,Germany
+1970,Physiology or Medicine,400000,Ulf von Euler,male,Europe,Sweden
+1971,Physics,450000,Dennis Gabor,male,Europe,Hungary
+1971,Physiology or Medicine,450000,"Earl W. Sutherland, Jr.",male,North America,USA
+1971,Chemistry,450000,Gerhard Herzberg,male,Europe,Germany
+1971,Literature,450000,Pablo Neruda,male,South America,Chile
+1971,Economic Sciences,450000,Simon Kuznets,male,Europe,Russian Empire
+1971,Peace,450000,Willy Brandt,male,Europe,Germany
+1972,Chemistry,480000,Christian B. Anfinsen,male,North America,USA
+1972,Physiology or Medicine,480000,Gerald M. Edelman,male,North America,USA
+1972,Literature,480000,Heinrich Böll,male,Europe,Germany
+1972,Economic Sciences,480000,John R. Hicks,male,Europe,United Kingdom
+1972,Economic Sciences,480000,Kenneth J. Arrow,male,North America,USA
+1972,Physics,480000,Leon Neil Cooper,male,North America,USA
+1972,Physics,480000,John Robert Schrieffer,male,North America,USA
+1972,Physiology or Medicine,480000,Rodney R. Porter,male,Europe,United Kingdom
+1972,Chemistry,480000,Stanford Moore,male,North America,USA
+1972,Chemistry,480000,William H. Stein,male,North America,USA
+1972,Physics,480000,John Bardeen,male,North America,USA
+1973,Physics,510000,Brian David Josephson,male,Europe,United Kingdom
+1973,Chemistry,510000,Ernst Otto Fischer,male,Europe,Germany
+1973,Chemistry,510000,Geoffrey Wilkinson,male,Europe,United Kingdom
+1973,Peace,510000,Henry Alfred Kissinger,male,Europe,Germany
+1973,Physics,510000,Ivar Giaever,male,Europe,Norway
+1973,Physiology or Medicine,510000,Karl von Frisch,male,Europe,Austria
+1973,Physiology or Medicine,510000,Konrad Lorenz,male,Europe,Austria
+1973,Peace,510000,Le Duc Tho ,male,Asia,Vietnam
+1973,Physics,510000,Leo Esaki,male,Asia,Japan
+1973,Physiology or Medicine,510000,Nikolaas Tinbergen,male,Europe,the Netherlands
+1973,Literature,510000,Patrick White,male,Europe,United Kingdom
+1973,Economic Sciences,510000,Wassily Wassilyevich Leontief,male,Europe,Russia
+1974,Physiology or Medicine,550000,Albert Claude,male,Europe,Belgium
+1974,Physics,550000,Antony Hewish,male,Europe,United Kingdom
+1974,Physiology or Medicine,550000,Christian de Duve,male,Europe,United Kingdom
+1974,Peace,550000,Eisaku Sato,male,Asia,Japan
+1974,Literature,550000,Eyvind Johnson,male,Europe,Sweden
+1974,Economic Sciences,550000,Friedrich August von Hayek,male,Europe,Austria
+1974,Physiology or Medicine,550000,George E. Palade,male,Europe,Romania
+1974,Economic Sciences,550000,Gunnar Myrdal,male,Europe,Sweden
+1974,Literature,550000,Harry Martinson,male,Europe,Sweden
+1974,Physics,550000,Sir Martin Ryle,male,Europe,United Kingdom
+1974,Chemistry,550000,Paul J. Flory,male,North America,USA
+1974,Peace,550000,Seán MacBride,male,Europe,France
+1975,Physics,630000,Aage Niels Bohr,male,Europe,Denmark
+1975,Peace,630000,Andrei Dmitrievich Sakharov,male,Europe,Russia
+1975,Physics,630000,Ben Roy Mottelson,male,North America,USA
+1975,Physiology or Medicine,630000,David Baltimore,male,North America,USA
+1975,Literature,630000,Eugenio Montale,male,Europe,Italy
+1975,Physiology or Medicine,630000,Howard Martin Temin,male,North America,USA
+1975,Physics,630000,Leo James Rainwater,male,North America,USA
+1975,Chemistry,630000,John Warcup Cornforth,male,Oceania,Australia
+1975,Economic Sciences,630000,Leonid Vitaliyevich Kantorovich,male,Europe,Russian Empire
+1975,Physiology or Medicine,630000,Renato Dulbecco,male,Europe,Italy
+1975,Economic Sciences,630000,Tjalling C. Koopmans,male,Europe,the Netherlands
+1975,Chemistry,630000,Vladimir Prelog,male,Europe,Austria-Hungary
+1976,Physiology or Medicine,681000,Baruch S. Blumberg,male,North America,USA
+1976,Peace,681000,Elizabeth Williams,female,Europe,Northern Ireland
+1976,Physics,681000,Burton Richter,male,North America,USA
+1976,Physiology or Medicine,681000,D. Carleton Gajdusek,male,North America,USA
+1976,Peace,681000,Mairead Corrigan,female,Europe,Northern Ireland
+1976,Economic Sciences,681000,Milton Friedman,male,North America,USA
+1976,Physics,681000,Samuel Chao Chung Ting,male,North America,USA
+1976,Literature,681000,Saul Bellow,male,North America,Canada
+1976,Chemistry,681000,William N. Lipscomb,male,North America,USA
+1977,Peace,700000,,,,
+1977,Physiology or Medicine,700000,Andrew V. Schally,male,Europe,Poland
+1977,Economic Sciences,700000,Bertil Ohlin,male,Europe,Sweden
+1977,Chemistry,700000,Ilya Romanovich Prigogine,male,Europe,Russia
+1977,Economic Sciences,700000,James E. Meade,male,Europe,United Kingdom
+1977,Physics,700000,John Hasbrouck van Vleck,male,North America,USA
+1977,Physics,700000,Philip Warren Anderson,male,North America,USA
+1977,Physiology or Medicine,700000,Roger Guillemin,male,Europe,France
+1977,Physiology or Medicine,700000,Rosalyn Yalow,female,North America,USA
+1977,Physics,700000,Sir Nevill Francis Mott,male,Europe,United Kingdom
+1977,Literature,700000,Vicente Aleixandre,male,Europe,Spain
+1978,Peace,725000,Mohamed Anwar al-Sadat,male,Africa,Egypt
+1978,Physics,725000,Arno Allan Penzias,male,Europe,Germany
+1978,Physiology or Medicine,725000,Daniel Nathans,male,North America,USA
+1978,Physiology or Medicine,725000,Hamilton O. Smith,male,North America,USA
+1978,Economic Sciences,725000,Herbert A. Simon,male,North America,USA
+1978,Literature,725000,Isaac Bashevis Singer,male,Europe,Russian Empire
+1978,Peace,725000,Menachem Begin,male,Europe,Russian Empire
+1978,Chemistry,725000,Peter D. Mitchell,male,Europe,United Kingdom
+1978,Physics,725000,Pyotr Leonidovich Kapitsa,male,Europe,Russian Empire
+1978,Physics,725000,Robert Woodrow Wilson,male,North America,USA
+1978,Physiology or Medicine,725000,Werner Arber,male,Europe,Switzerland
+1979,Physics,800000,Abdus Salam,male,Asia,India
+1979,Physiology or Medicine,800000,Allan M. Cormack,male,Africa,South Africa
+1979,Chemistry,800000,Georg Wittig,male,Europe,Germany
+1979,Physiology or Medicine,800000,Godfrey N. Hounsfield,male,Europe,United Kingdom
+1979,Chemistry,800000,Herbert C. Brown,male,Europe,United Kingdom
+1979,Peace,800000,Mother Teresa ,female,Europe,Ottoman Empire
+1979,Literature,800000,Odysseus Elytis,male,Europe,Crete
+1979,Physics,800000,Sheldon Lee Glashow,male,North America,USA
+1979,Economic Sciences,800000,Sir Arthur Lewis,male,North America,British West Indies
+1979,Physics,800000,Steven Weinberg,male,North America,USA
+1979,Economic Sciences,800000,Theodore W. Schultz,male,North America,USA
+1980,Peace,880000,Adolfo Pérez Esquivel,male,South America,Argentina
+1980,Physiology or Medicine,880000,Baruj Benacerraf,male,South America,Venezuela
+1980,Literature,880000,Czeslaw Milosz,male,Europe,Russian Empire
+1980,Physiology or Medicine,880000,George D. Snell,male,North America,USA
+1980,Physics,880000,James Watson Cronin,male,North America,USA
+1980,Physiology or Medicine,880000,Jean Dausset,male,Europe,France
+1980,Economic Sciences,880000,Lawrence R. Klein,male,North America,USA
+1980,Chemistry,880000,Paul Berg,male,North America,USA
+1980,Physics,880000,Val Logsdon Fitch,male,North America,USA
+1980,Chemistry,880000,Walter Gilbert,male,North America,USA
+1980,Chemistry,880000,Frederick Sanger,male,Europe,United Kingdom
+1981,Physics,1000000,Arthur Leonard Schawlow,male,North America,USA
+1981,Physiology or Medicine,1000000,David H. Hubel,male,North America,Canada
+1981,Literature,1000000,Elias Canetti,male,Europe,Bulgaria
+1981,Economic Sciences,1000000,James Tobin,male,North America,USA
+1981,Physics,1000000,Kai M. Siegbahn,male,Europe,Sweden
+1981,Chemistry,1000000,Kenichi Fukui,male,Asia,Japan
+1981,Physics,1000000,Nicolaas Bloembergen,male,Europe,the Netherlands
+1981,Chemistry,1000000,Roald Hoffmann,male,Europe,Poland
+1981,Physiology or Medicine,1000000,Roger W. Sperry,male,North America,USA
+1981,Physiology or Medicine,1000000,Torsten N. Wiesel,male,Europe,Sweden
+1981,Peace,1000000,,,,
+1982,Chemistry,1150000,Aaron Klug,male,Europe,Lithuania
+1982,Peace,1150000,Alfonso García Robles,male,North America,Mexico
+1982,Peace,1150000,Alva Myrdal,female,Europe,Sweden
+1982,Physiology or Medicine,1150000,Bengt I. Samuelsson,male,Europe,Sweden
+1982,Literature,1150000,Gabriel García Márquez,male,South America,Colombia
+1982,Economic Sciences,1150000,George J. Stigler,male,North America,USA
+1982,Physiology or Medicine,1150000,John R. Vane,male,Europe,United Kingdom
+1982,Physics,1150000,Kenneth G. Wilson,male,North America,USA
+1982,Physiology or Medicine,1150000,Sune K. Bergström,male,Europe,Sweden
+1983,Physiology or Medicine,1500000,Barbara McClintock,female,North America,USA
+1983,Economic Sciences,1500000,Gerard Debreu,male,Europe,France
+1983,Chemistry,1500000,Henry Taube,male,North America,Canada
+1983,Peace,1500000,Lech Walesa,male,Europe,Poland
+1983,Physics,1500000,Subramanyan Chandrasekhar,male,Asia,India
+1983,Physics,1500000,William Alfred Fowler,male,North America,USA
+1983,Literature,1500000,William Golding,male,Europe,United Kingdom
+1984,Chemistry,1650000,Robert Bruce Merrifield,male,North America,USA
+1984,Physics,1650000,Carlo Rubbia,male,Europe,Italy
+1984,Physiology or Medicine,1650000,César Milstein,male,South America,Argentina
+1984,Peace,1650000,Desmond Mpilo Tutu,male,Africa,South Africa
+1984,Physiology or Medicine,1650000,Georges J.F. Köhler,male,Europe,Germany
+1984,Literature,1650000,Jaroslav Seifert,male,Europe,Austria-Hungary
+1984,Physiology or Medicine,1650000,Niels K. Jerne,male,Europe,United Kingdom
+1984,Economic Sciences,1650000,Richard Stone,male,Europe,United Kingdom
+1984,Physics,1650000,Simon van der Meer,male,Europe,the Netherlands
+1985,Literature,1800000,Claude Simon,male,Africa,Madagascar
+1985,Economic Sciences,1800000,Franco Modigliani,male,Europe,Italy
+1985,Chemistry,1800000,Herbert A. Hauptman,male,North America,USA
+1985,Peace,1800000,,,,
+1985,Chemistry,1800000,Jerome Karle,male,North America,USA
+1985,Physiology or Medicine,1800000,Joseph L. Goldstein,male,North America,USA
+1985,Physics,1800000,Klaus von Klitzing,male,Europe,German-occupied Poland
+1985,Physiology or Medicine,1800000,Michael S. Brown,male,North America,USA
+1986,Chemistry,2000000,Dudley R. Herschbach,male,North America,USA
+1986,Peace,2000000,Elie Wiesel,male,Europe,Romania
+1986,Physics,2000000,Ernst Ruska,male,Europe,Germany
+1986,Physics,2000000,Gerd Binnig,male,Europe,West Germany
+1986,Physics,2000000,Heinrich Rohrer,male,Europe,Switzerland
+1986,Economic Sciences,2000000,James M. Buchanan Jr.,male,North America,USA
+1986,Chemistry,2000000,John C. Polanyi,male,Europe,Germany
+1986,Physiology or Medicine,2000000,Rita Levi-Montalcini,female,Europe,Italy
+1986,Physiology or Medicine,2000000,Stanley Cohen,male,North America,USA
+1986,Literature,2000000,Wole Soyinka,male,Africa,Nigeria
+1986,Chemistry,2000000,Yuan T. Lee,male,Asia,Taiwan
+1987,Chemistry,2175000,Charles J. Pedersen,male,Asia,Korea
+1987,Chemistry,2175000,Donald J. Cram,male,North America,USA
+1987,Physics,2175000,J. Georg Bednorz,male,Europe,West Germany
+1987,Chemistry,2175000,Jean-Marie Lehn,male,Europe,France
+1987,Literature,2175000,Joseph Brodsky,male,Europe,USSR
+1987,Physics,2175000,K. Alexander Müller,male,Europe,Switzerland
+1987,Peace,2175000,Oscar Arias Sánchez,male,North America,Costa Rica
+1987,Economic Sciences,2175000,Robert M. Solow,male,North America,USA
+1987,Physiology or Medicine,2175000,Susumu Tonegawa,male,Asia,Japan
+1988,Physiology or Medicine,2500000,George H. Hitchings,male,North America,USA
+1988,Physiology or Medicine,2500000,Gertrude B. Elion,female,North America,USA
+1988,Chemistry,2500000,Hartmut Michel,male,Europe,West Germany
+1988,Physics,2500000,Jack Steinberger,male,Europe,Germany
+1988,Chemistry,2500000,Johann Deisenhofer,male,Europe,Germany
+1988,Physics,2500000,Leon M. Lederman,male,North America,USA
+1988,Economic Sciences,2500000,Maurice Allais,male,Europe,France
+1988,Physics,2500000,Melvin Schwartz,male,North America,USA
+1988,Literature,2500000,Naguib Mahfouz,male,Africa,Egypt
+1988,Chemistry,2500000,Robert Huber,male,Europe,Germany
+1988,Physiology or Medicine,2500000,Sir James W. Black,male,Europe,Scotland
+1988,Peace,2500000,,,,
+1989,Literature,3000000,Camilo José Cela,male,Europe,Spain
+1989,Physics,3000000,Hans G. Dehmelt,male,Europe,Prussia
+1989,Physiology or Medicine,3000000,Harold E. Varmus,male,North America,USA
+1989,Physiology or Medicine,3000000,J. Michael Bishop,male,North America,USA
+1989,Physics,3000000,Norman F. Ramsey,male,North America,USA
+1989,Chemistry,3000000,Sidney Altman,male,North America,Canada
+1989,Peace,3000000,The 14th Dalai Lama (Tenzin Gyatso),male,Asia,Tibet
+1989,Chemistry,3000000,Thomas R. Cech,male,North America,USA
+1989,Economic Sciences,3000000,Trygve Haavelmo,male,Europe,Norway
+1989,Physics,3000000,Wolfgang Paul,male,Europe,Germany
+1990,Physiology or Medicine,4000000,E. Donnall Thomas,male,North America,USA
+1990,Chemistry,4000000,Elias James Corey,male,North America,USA
+1990,Economic Sciences,4000000,Harry M. Markowitz,male,North America,USA
+1990,Physics,4000000,Henry W. Kendall,male,North America,USA
+1990,Physics,4000000,Jerome I. Friedman,male,North America,USA
+1990,Physiology or Medicine,4000000,Joseph E. Murray,male,North America,USA
+1990,Economic Sciences,4000000,Merton H. Miller,male,North America,USA
+1990,Peace,4000000,Mikhail Sergeyevich Gorbachev,male,Europe,USSR
+1990,Literature,4000000,Octavio Paz,male,North America,Mexico
+1990,Physics,4000000,Richard E. Taylor,male,North America,Canada
+1990,Economic Sciences,4000000,William F. Sharpe,male,North America,USA
+1991,Peace,6000000,Aung San Suu Kyi ,female,Asia,Burma
+1991,Physiology or Medicine,6000000,Bert Sakmann,male,Europe,Germany
+1991,Physiology or Medicine,6000000,Erwin Neher,male,Europe,Germany
+1991,Literature,6000000,Nadine Gordimer,female,Africa,South Africa
+1991,Physics,6000000,Pierre-Gilles de Gennes,male,Europe,France
+1991,Chemistry,6000000,Richard R. Ernst,male,Europe,Switzerland
+1991,Economic Sciences,6000000,Ronald H. Coase,male,Europe,United Kingdom
+1992,Literature,6500000,Derek Walcott,male,North America,Saint Lucia
+1992,Physiology or Medicine,6500000,Edmond H. Fischer,male,Asia,China
+1992,Physiology or Medicine,6500000,Edwin G. Krebs,male,North America,USA
+1992,Economic Sciences,6500000,Gary S. Becker,male,North America,USA
+1992,Physics,6500000,Georges Charpak,male,Europe,Poland
+1992,Peace,6500000,Rigoberta Menchú Tum,female,North America,Guatemala
+1992,Chemistry,6500000,Rudolph A. Marcus,male,North America,Canada
+1993,Economic Sciences,6700000,Douglass C. North,male,North America,USA
+1993,Peace,6700000,Frederik Willem de Klerk,male,Africa,South Africa
+1993,Physics,6700000,Joseph H. Taylor Jr.,male,North America,USA
+1993,Chemistry,6700000,Kary B. Mullis,male,North America,USA
+1993,Chemistry,6700000,Michael Smith,male,Europe,United Kingdom
+1993,Peace,6700000,Nelson Rolihlahla Mandela,male,Africa,South Africa
+1993,Physiology or Medicine,6700000,Phillip A. Sharp,male,North America,USA
+1993,Physiology or Medicine,6700000,Richard J. Roberts,male,Europe,United Kingdom
+1993,Economic Sciences,6700000,Robert W. Fogel,male,North America,USA
+1993,Physics,6700000,Russell A. Hulse,male,North America,USA
+1993,Literature,6700000,Toni Morrison,female,North America,USA
+1994,Physiology or Medicine,7000000,Alfred G. Gilman,male,North America,USA
+1994,Physics,7000000,Bertram N. Brockhouse,male,North America,Canada
+1994,Physics,7000000,Clifford G. Shull,male,North America,USA
+1994,Chemistry,7000000,George A. Olah,male,Europe,Hungary
+1994,Economic Sciences,7000000,John C. Harsanyi,male,Europe,Hungary
+1994,Economic Sciences,7000000,John F. Nash Jr.,male,North America,USA
+1994,Literature,7000000,Kenzaburo Oe,male,Asia,Japan
+1994,Physiology or Medicine,7000000,Martin Rodbell,male,North America,USA
+1994,Economic Sciences,7000000,Reinhard Selten,male,Europe,Germany
+1994,Peace,7000000,Shimon Peres,male,Europe,Poland
+1994,Peace,7000000,Yasser Arafat,male,Africa,Egypt
+1994,Peace,7000000,Yitzhak Rabin,male,Asia,British Mandate of Palestine
+1995,Physiology or Medicine,7200000,Christiane Nüsslein-Volhard,female,Europe,Germany
+1995,Physiology or Medicine,7200000,Edward B. Lewis,male,North America,USA
+1995,Physiology or Medicine,7200000,Eric F. Wieschaus,male,North America,USA
+1995,Chemistry,7200000,F. Sherwood Rowland,male,North America,USA
+1995,Physics,7200000,Frederick Reines,male,North America,USA
+1995,Peace,7200000,Joseph Rotblat,male,Europe,Russian Empire
+1995,Chemistry,7200000,Mario J. Molina,male,North America,Mexico
+1995,Physics,7200000,Martin L. Perl,male,North America,USA
+1995,Chemistry,7200000,Paul J. Crutzen,male,Europe,the Netherlands
+1995,Peace,7200000,,,,
+1995,Economic Sciences,7200000,Robert E. Lucas Jr.,male,North America,USA
+1995,Literature,7200000,Seamus Heaney,male,Europe,Northern Ireland
+1996,Peace,7400000,Carlos Filipe Ximenes Belo,male,Oceania,East Timor
+1996,Physics,7400000,David M. Lee,male,North America,USA
+1996,Physics,7400000,Douglas D. Osheroff,male,North America,USA
+1996,Economic Sciences,7400000,James A. Mirrlees,male,Europe,Scotland
+1996,Peace,7400000,José Ramos-Horta,male,Oceania,East Timor
+1996,Physiology or Medicine,7400000,Peter C. Doherty,male,Oceania,Australia
+1996,Chemistry,7400000,Richard E. Smalley,male,North America,USA
+1996,Physics,7400000,Robert C. Richardson,male,North America,USA
+1996,Chemistry,7400000,Robert F. Curl Jr.,male,North America,USA
+1996,Physiology or Medicine,7400000,Rolf M. Zinkernagel,male,Europe,Switzerland
+1996,Chemistry,7400000,Sir Harold W. Kroto,male,Europe,United Kingdom
+1996,Economic Sciences,7400000,William Vickrey,male,North America,Canada
+1996,Literature,7400000,Wislawa Szymborska,female,Europe,Poland
+1997,Physics,7500000,Claude Cohen-Tannoudji,male,Africa,French Algeria
+1997,Literature,7500000,Dario Fo,male,Europe,Italy
+1997,Peace,7500000,,,,
+1997,Chemistry,7500000,Jens C. Skou,male,Europe,Denmark
+1997,Peace,7500000,Jody Williams,female,North America,USA
+1997,Chemistry,7500000,John E. Walker,male,Europe,United Kingdom
+1997,Economic Sciences,7500000,Myron S. Scholes,male,North America,Canada
+1997,Chemistry,7500000,Paul D. Boyer,male,North America,USA
+1997,Economic Sciences,7500000,Robert C. Merton,male,North America,USA
+1997,Physiology or Medicine,7500000,Stanley B. Prusiner,male,North America,USA
+1997,Physics,7500000,Steven Chu,male,North America,USA
+1997,Physics,7500000,William D. Phillips,male,North America,USA
+1998,Economic Sciences,7600000,Amartya Sen,male,Asia,India
+1998,Physics,7600000,Daniel C. Tsui,male,Asia,China
+1998,Peace,7600000,David Trimble,male,Europe,Northern Ireland
+1998,Physiology or Medicine,7600000,Ferid Murad,male,North America,USA
+1998,Physics,7600000,Horst L. Störmer,male,Europe,West Germany
+1998,Peace,7600000,John Hume,male,Europe,Northern Ireland
+1998,Chemistry,7600000,John A. Pople,male,Europe,United Kingdom
+1998,Literature,7600000,José Saramago,male,Europe,Portugal
+1998,Physiology or Medicine,7600000,Louis J. Ignarro,male,North America,USA
+1998,Physics,7600000,Robert B. Laughlin,male,North America,USA
+1998,Physiology or Medicine,7600000,Robert F. Furchgott,male,North America,USA
+1998,Chemistry,7600000,Walter Kohn,male,Europe,Austria
+1999,Chemistry,7900000,Ahmed H. Zewail,male,Africa,Egypt
+1999,Physics,7900000,Gerardus 't Hooft,male,Europe,the Netherlands
+1999,Physiology or Medicine,7900000,Günter Blobel,male,Europe,Germany
+1999,Literature,7900000,Günter Grass,male,Europe,Free City of Danzig
+1999,Physics,7900000,Martinus J.G. Veltman,male,Europe,the Netherlands
+1999,Peace,7900000,,,,
+1999,Economic Sciences,7900000,Robert A. Mundell,male,North America,Canada
+2000,Chemistry,9000000,Alan J. Heeger,male,North America,USA
+2000,Chemistry,9000000,Alan G. MacDiarmid,male,Oceania,New Zealand
+2000,Physiology or Medicine,9000000,Arvid Carlsson,male,Europe,Sweden
+2000,Economic Sciences,9000000,Daniel L. McFadden,male,North America,USA
+2000,Physiology or Medicine,9000000,Eric R. Kandel,male,Europe,Austria
+2000,Literature,9000000,Gao Xingjian,male,Asia,China
+2000,Physics,9000000,Herbert Kroemer,male,Europe,Germany
+2000,Chemistry,9000000,Hideki Shirakawa,male,Asia,Japan
+2000,Physics,9000000,Jack S. Kilby,male,North America,USA
+2000,Economic Sciences,9000000,James J. Heckman,male,North America,USA
+2000,Peace,9000000,Kim Dae-jung,male,Asia,Korea
+2000,Physiology or Medicine,9000000,Paul Greengard,male,North America,USA
+2000,Physics,9000000,Zhores I. Alferov,male,Europe,USSR
+2001,Economic Sciences,10000000,A. Michael Spence,male,North America,USA
+2001,Chemistry,10000000,K. Barry Sharpless,male,North America,USA
+2001,Physics,10000000,Carl E. Wieman,male,North America,USA
+2001,Physics,10000000,Eric A. Cornell,male,North America,USA
+2001,Economic Sciences,10000000,George A. Akerlof,male,North America,USA
+2001,Economic Sciences,10000000,Joseph E. Stiglitz,male,North America,USA
+2001,Peace,10000000,Kofi Atta Annan,male,Africa,Gold Coast
+2001,Physiology or Medicine,10000000,Leland H. Hartwell,male,North America,USA
+2001,Chemistry,10000000,Ryoji Noyori,male,Asia,Japan
+2001,Physiology or Medicine,10000000,Sir Paul M. Nurse,male,Europe,United Kingdom
+2001,Physiology or Medicine,10000000,Tim Hunt,male,Europe,United Kingdom
+2001,Peace,10000000,,,,
+2001,Literature,10000000,Sir Vidiadhar Surajprasad Naipaul,male,North America,Trinidad and Tobago
+2001,Chemistry,10000000,William S. Knowles,male,North America,USA
+2001,Physics,10000000,Wolfgang Ketterle,male,Europe,West Germany
+2002,Economic Sciences,10000000,Daniel Kahneman,male,Asia,British Mandate of Palestine
+2002,Physiology or Medicine,10000000,H. Robert Horvitz,male,North America,USA
+2002,Literature,10000000,Imre Kertész,male,Europe,Hungary
+2002,Peace,10000000,James Earl Carter,male,North America,USA
+2002,Chemistry,10000000,John B. Fenn,male,North America,USA
+2002,Physiology or Medicine,10000000,John E. Sulston,male,Europe,United Kingdom
+2002,Chemistry,10000000,Koichi Tanaka,male,Asia,Japan
+2002,Chemistry,10000000,Kurt Wüthrich,male,Europe,Switzerland
+2002,Physics,10000000,Masatoshi Koshiba,male,Asia,Japan
+2002,Physics,10000000,Raymond Davis Jr.,male,North America,USA
+2002,Physics,10000000,Riccardo Giacconi,male,Europe,Italy
+2002,Physiology or Medicine,10000000,Sydney Brenner,male,Africa,South Africa
+2002,Economic Sciences,10000000,Vernon L. Smith,male,North America,USA
+2003,Physics,10000000,Alexei Alexeyevich Abrikosov,male,Europe,USSR
+2003,Physics,10000000,Anthony J. Leggett,male,Europe,United Kingdom
+2003,Economic Sciences,10000000,Clive W.J. Granger,male,Europe,United Kingdom
+2003,Literature,10000000,John M. Coetzee,male,Africa,South Africa
+2003,Physiology or Medicine,10000000,Paul C. Lauterbur,male,North America,USA
+2003,Chemistry,10000000,Peter Agre,male,North America,USA
+2003,Economic Sciences,10000000,Robert F. Engle III,male,North America,USA
+2003,Chemistry,10000000,Roderick MacKinnon,male,North America,USA
+2003,Peace,10000000,Shirin Ebadi,female,Asia,Iran
+2003,Physiology or Medicine,10000000,Sir Peter Mansfield,male,Europe,United Kingdom
+2003,Physics,10000000,Vitaly Lazarevich Ginzburg,male,Europe,Russia
+2004,Chemistry,10000000,Aaron Ciechanover,male,Asia,British Protectorate of Palestine
+2004,Chemistry,10000000,Avram Hershko,male,Europe,Hungary
+2004,Physics,10000000,David J. Gross,male,North America,USA
+2004,Economic Sciences,10000000,Edward C. Prescott,male,North America,USA
+2004,Literature,10000000,Elfriede Jelinek,female,Europe,Austria
+2004,Economic Sciences,10000000,Finn E. Kydland,male,Europe,Norway
+2004,Physics,10000000,Frank Wilczek,male,North America,USA
+2004,Physics,10000000,H. David Politzer,male,North America,USA
+2004,Chemistry,10000000,Irwin Rose,male,North America,USA
+2004,Physiology or Medicine,10000000,Linda B. Buck,female,North America,USA
+2004,Physiology or Medicine,10000000,Richard Axel,male,North America,USA
+2004,Peace,10000000,Wangari Muta Maathai,female,Africa,Kenya
+2005,Physiology or Medicine,10000000,Barry J. Marshall,male,Oceania,Australia
+2005,Literature,10000000,Harold Pinter,male,Europe,United Kingdom
+2005,Peace,10000000,,,,
+2005,Physiology or Medicine,10000000,J. Robin Warren,male,Oceania,Australia
+2005,Physics,10000000,John L. Hall,male,North America,USA
+2005,Peace,10000000,Mohamed ElBaradei,male,Africa,Egypt
+2005,Chemistry,10000000,Richard R. Schrock,male,North America,USA
+2005,Chemistry,10000000,Robert H. Grubbs,male,North America,USA
+2005,Economic Sciences,10000000,Robert J. Aumann,male,Europe,Germany
+2005,Physics,10000000,Roy J. Glauber,male,North America,USA
+2005,Physics,10000000,Theodor W. Hänsch,male,Europe,Germany
+2005,Economic Sciences,10000000,Thomas C. Schelling,male,North America,USA
+2005,Chemistry,10000000,Yves Chauvin,male,Europe,Belgium
+2006,Physiology or Medicine,10000000,Andrew Z. Fire,male,North America,USA
+2006,Physiology or Medicine,10000000,Craig C. Mello,male,North America,USA
+2006,Economic Sciences,10000000,Edmund S. Phelps,male,North America,USA
+2006,Physics,10000000,George F. Smoot,male,North America,USA
+2006,Peace,10000000,,,,
+2006,Physics,10000000,John C. Mather,male,North America,USA
+2006,Peace,10000000,Muhammad Yunus,male,Asia,British India
+2006,Literature,10000000,Orhan Pamuk,male,Asia,Turkey
+2006,Chemistry,10000000,Roger D. Kornberg,male,North America,USA
+2007,Peace,10000000,Albert Arnold (Al) Gore Jr.,male,North America,USA
+2007,Physics,10000000,Albert Fert,male,Europe,France
+2007,Literature,10000000,Doris Lessing,female,Asia,Persia
+2007,Economic Sciences,10000000,Eric S. Maskin,male,North America,USA
+2007,Chemistry,10000000,Gerhard Ertl,male,Europe,Germany
+2007,Peace,10000000,,,,
+2007,Economic Sciences,10000000,Leonid Hurwicz,male,Europe,Russia
+2007,Physiology or Medicine,10000000,Mario R. Capecchi,male,Europe,Italy
+2007,Physiology or Medicine,10000000,Oliver Smithies,male,Europe,United Kingdom
+2007,Physics,10000000,Peter Grünberg,male,Europe,Czechoslovakia
+2007,Economic Sciences,10000000,Roger B. Myerson,male,North America,USA
+2007,Physiology or Medicine,10000000,Sir Martin J. Evans,male,Europe,United Kingdom
+2008,Physiology or Medicine,10000000,Françoise Barré-Sinoussi,female,Europe,France
+2008,Physiology or Medicine,10000000,Harald zur Hausen,male,Europe,Germany
+2008,Literature,10000000,Jean-Marie Gustave Le Clézio,male,Europe,France
+2008,Physiology or Medicine,10000000,Luc Montagnier,male,Europe,France
+2008,Physics,10000000,Makoto Kobayashi,male,Asia,Japan
+2008,Chemistry,10000000,Martin Chalfie,male,North America,USA
+2008,Peace,10000000,Martti Ahtisaari,male,Europe,Finland
+2008,Chemistry,10000000,Osamu Shimomura,male,Asia,Japan
+2008,Economic Sciences,10000000,Paul Krugman,male,North America,USA
+2008,Chemistry,10000000,Roger Y. Tsien,male,North America,USA
+2008,Physics,10000000,Toshihide Maskawa,male,Asia,Japan
+2008,Physics,10000000,Yoichiro Nambu,male,Asia,Japan
+2009,Chemistry,10000000,Ada E. Yonath,female,Asia,British Mandate of Palestine
+2009,Peace,10000000,Barack Hussein Obama,male,North America,USA
+2009,Physiology or Medicine,10000000,Carol W. Greider,female,North America,USA
+2009,Physics,10000000,Charles Kuen Kao,male,Asia,China
+2009,Economic Sciences,10000000,Elinor Ostrom,female,North America,USA
+2009,Physiology or Medicine,10000000,Elizabeth H. Blackburn,female,Oceania,Australia
+2009,Physics,10000000,George E. Smith,male,North America,USA
+2009,Literature,10000000,Herta Müller,female,Europe,Romania
+2009,Physiology or Medicine,10000000,Jack W. Szostak,male,Europe,United Kingdom
+2009,Economic Sciences,10000000,Oliver E. Williamson,male,North America,USA
+2009,Chemistry,10000000,Thomas A. Steitz,male,North America,USA
+2009,Chemistry,10000000,Venkatraman Ramakrishnan,male,Asia,India
+2009,Physics,10000000,Willard S. Boyle,male,North America,Canada
+2010,Chemistry,10000000,Akira Suzuki,male,Asia,Japan
+2010,Physics,10000000,Andre Geim,male,Europe,Russia
+2010,Economic Sciences,10000000,Christopher A. Pissarides,male,Europe,Cyprus
+2010,Economic Sciences,10000000,Dale T. Mortensen,male,North America,USA
+2010,Chemistry,10000000,Ei-ichi Negishi,male,Asia,China
+2010,Physics,10000000,Konstantin Novoselov,male,Europe,Russia
+2010,Peace,10000000,Liu Xiaobo,male,Asia,China
+2010,Literature,10000000,Mario Vargas Llosa,male,South America,Peru
+2010,Economic Sciences,10000000,Peter A. Diamond,male,North America,USA
+2010,Chemistry,10000000,Richard F. Heck,male,North America,USA
+2010,Physiology or Medicine,10000000,Robert G. Edwards,male,Europe,United Kingdom
+2011,Physics,10000000,Adam G. Riess,male,North America,USA
+2011,Physics,10000000,Brian P. Schmidt,male,North America,USA
+2011,Physiology or Medicine,10000000,Bruce A. Beutler,male,North America,USA
+2011,Economic Sciences,10000000,Christopher A. Sims,male,North America,USA
+2011,Chemistry,10000000,Dan Shechtman,male,Asia,British Mandate of Palestine
+2011,Peace,10000000,Ellen Johnson Sirleaf,female,Africa,Liberia
+2011,Physiology or Medicine,10000000,Jules A. Hoffmann,male,Europe,Luxembourg
+2011,Peace,10000000,Leymah Gbowee,female,Africa,Liberia
+2011,Physiology or Medicine,10000000,Ralph M. Steinman,male,North America,Canada
+2011,Physics,10000000,Saul Perlmutter,male,North America,USA
+2011,Peace,10000000,Tawakkol Karman,female,Asia,Yemen
+2011,Economic Sciences,10000000,Thomas J. Sargent,male,North America,USA
+2011,Literature,10000000,Tomas Tranströmer,male,Europe,Sweden
+2012,Economic Sciences,8000000,Alvin E. Roth,male,North America,USA
+2012,Chemistry,8000000,Brian K. Kobilka,male,North America,USA
+2012,Physics,8000000,David J. Wineland,male,North America,USA
+2012,Peace,8000000,,,,
+2012,Economic Sciences,8000000,Lloyd S. Shapley,male,North America,USA
+2012,Literature,8000000,Mo Yan,male,Asia,China
+2012,Chemistry,8000000,Robert J. Lefkowitz,male,North America,USA
+2012,Physics,8000000,Serge Haroche,male,Africa,Morocco
+2012,Physiology or Medicine,8000000,Shinya Yamanaka,male,Asia,Japan
+2012,Physiology or Medicine,8000000,Sir John B. Gurdon,male,Europe,United Kingdom
+2013,Literature,8000000,Alice Munro,female,North America,Canada
+2013,Chemistry,8000000,Arieh Warshel,male,Asia,British Mandate of Palestine
+2013,Economic Sciences,8000000,Eugene F. Fama,male,North America,USA
+2013,Physics,8000000,François Englert,male,Europe,Belgium
+2013,Physiology or Medicine,8000000,James E. Rothman,male,North America,USA
+2013,Economic Sciences,8000000,Lars Peter Hansen,male,North America,USA
+2013,Chemistry,8000000,Martin Karplus,male,Europe,Austria
+2013,Chemistry,8000000,Michael Levitt,male,Africa,South Africa
+2013,Peace,8000000,,,,
+2013,Physics,8000000,Peter W. Higgs,male,Europe,United Kingdom
+2013,Physiology or Medicine,8000000,Randy W. Schekman,male,North America,USA
+2013,Economic Sciences,8000000,Robert J. Shiller,male,North America,USA
+2013,Physiology or Medicine,8000000,Thomas C. Südhof,male,Europe,Germany
+2014,Physiology or Medicine,8000000,Edvard I. Moser,male,Europe,Norway
+2014,Chemistry,8000000,Eric Betzig,male,North America,USA
+2014,Physics,8000000,Hiroshi Amano,male,Asia,Japan
+2014,Physics,8000000,Isamu Akasaki,male,Asia,Japan
+2014,Economic Sciences,8000000,Jean Tirole,male,Europe,France
+2014,Physiology or Medicine,8000000,John O'Keefe,male,North America,USA
+2014,Peace,8000000,Kailash Satyarthi,male,Asia,India
+2014,Peace,8000000,Malala Yousafzai,female,Asia,Pakistan
+2014,Physiology or Medicine,8000000,May-Britt Moser,female,Europe,Norway
+2014,Literature,8000000,Patrick Modiano,male,Europe,France
+2014,Physics,8000000,Shuji Nakamura,male,Asia,Japan
+2014,Chemistry,8000000,Stefan W. Hell,male,Europe,Romania
+2014,Chemistry,8000000,William E. Moerner,male,North America,USA
+2015,Economic Sciences,8000000,Angus Deaton,male,Europe,Scotland
+2015,Physics,8000000,Arthur B. McDonald,male,North America,Canada
+2015,Chemistry,8000000,Aziz Sancar,male,Asia,Turkey
+2015,Peace,8000000,,,,
+2015,Chemistry,8000000,Paul Modrich,male,North America,USA
+2015,Physiology or Medicine,8000000,Satoshi &#332;mura,male,Asia,Japan
+2015,Literature,8000000,Svetlana Alexievich,female,Europe,Ukraine
+2015,Physics,8000000,Takaaki Kajita,male,Asia,Japan
+2015,Chemistry,8000000,Tomas Lindahl,male,Europe,Sweden
+2015,Physiology or Medicine,8000000,Tu Youyou,female,Asia,China
+2015,Physiology or Medicine,8000000,William C. Campbell,male,Europe,Ireland
+2016,Economic Sciences,8000000,Bengt Holmström,male,Europe,Finland
+2016,Chemistry,8000000,Bernard L. Feringa,male,Europe,the Netherlands
+2016,Literature,8000000,Bob Dylan,male,North America,USA
+2016,Physics,8000000,David J. Thouless,male,Europe,United Kingdom
+2016,Physics,8000000,F. Duncan M. Haldane,male,Europe,United Kingdom
+2016,Physics,8000000,J. Michael Kosterlitz,male,Europe,United Kingdom
+2016,Chemistry,8000000,Jean-Pierre Sauvage,male,Europe,France
+2016,Peace,8000000,Juan Manuel Santos,male,South America,Colombia
+2016,Economic Sciences,8000000,Oliver Hart,male,Europe,United Kingdom
+2016,Chemistry,8000000,Sir J. Fraser Stoddart,male,Europe,United Kingdom
+2016,Physiology or Medicine,8000000,Yoshinori Ohsumi,male,Asia,Japan
+2017,Physics,9000000,Barry C. Barish,male,North America,USA
+2017,Peace,9000000,,,,
+2017,Chemistry,9000000,Jacques Dubochet,male,Europe,Switzerland
+2017,Physiology or Medicine,9000000,Jeffrey C. Hall,male,North America,USA
+2017,Chemistry,9000000,Joachim Frank,male,Europe,Germany
+2017,Literature,9000000,Kazuo Ishiguro,male,Asia,Japan
+2017,Physics,9000000,Kip S. Thorne,male,North America,USA
+2017,Physiology or Medicine,9000000,Michael Rosbash,male,North America,USA
+2017,Physiology or Medicine,9000000,Michael W. Young,male,North America,USA
+2017,Physics,9000000,Rainer Weiss,male,Europe,Germany
+2017,Economic Sciences,9000000,Richard H. Thaler,male,North America,USA
+2017,Chemistry,9000000,Richard Henderson,male,Europe,Scotland
+2018,Physics,9000000,Arthur Ashkin,male,North America,USA
+2018,Peace,9000000,Denis Mukwege,male,Africa,Belgian Congo
+2018,Physics,9000000,Donna Strickland,female,North America,Canada
+2018,Chemistry,9000000,Frances H. Arnold,female,North America,USA
+2018,Chemistry,9000000,George P. Smith,male,North America,USA
+2018,Physics,9000000,Gérard Mourou,male,Europe,France
+2018,Physiology or Medicine,9000000,James P. Allison,male,North America,USA
+2018,Peace,9000000,Nadia Murad Basee Taha,female,Asia,Iraq
+2018,Literature,9000000,Olga Tokarczuk,female,Europe,Poland
+2018,Economic Sciences,9000000,Paul M. Romer,male,North America,USA
+2018,Chemistry,9000000,Sir Gregory P. Winter,male,Europe,United Kingdom
+2018,Physiology or Medicine,9000000,Tasuku Honjo,male,Asia,Japan
+2018,Economic Sciences,9000000,William D. Nordhaus,male,North America,USA
+2019,Economic Sciences,9000000,Abhijit Banerjee,male,Asia,India
+2019,Peace,9000000,Abiy Ahmed Ali,male,Africa,Ethiopia
+2019,Chemistry,9000000,Akira Yoshino,male,Asia,Japan
+2019,Physics,9000000,Didier Queloz,male,Europe,Switzerland
+2019,Economic Sciences,9000000,Esther Duflo,female,Europe,France
+2019,Physiology or Medicine,9000000,Gregg L. Semenza,male,North America,USA
+2019,Physics,9000000,James Peebles,male,North America,Canada
+2019,Chemistry,9000000,John B. Goodenough,male,Europe,Germany
+2019,Chemistry,9000000,M. Stanley Whittingham,male,Europe,United Kingdom
+2019,Economic Sciences,9000000,Michael Kremer,male,North America,USA
+2019,Physics,9000000,Michel Mayor,male,Europe,Switzerland
+2019,Literature,9000000,Peter Handke,male,Europe,Austria
+2019,Physiology or Medicine,9000000,Sir Peter J. Ratcliffe,male,Europe,United Kingdom
+2019,Physiology or Medicine,9000000,William G. Kaelin Jr,male,North America,USA
