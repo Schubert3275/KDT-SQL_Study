@@ -39,6 +39,7 @@
     - 다중 테이블 쿼리
     - 집합 연산자
     - 데이터 생성, 조작과 변환
+    - Python과 MySQL 연동
 
 - day3_SQL_01.sql
   - 조인(join)
@@ -57,5 +58,23 @@
   - 시간 데이터 처리
   - 변환 함수
 
+- day3_pymysql_01.py
+  - pymysql.connect() 함수
+
+- day3_pymysql_02.py
+  - 복잡한 쿼리 실행
+
+- day3_pymysql_03.py
+  - 테이블 생성
+
+- day3_pymysql_04.py
+  - execute() 예제
+
+- day3_pymysql_05.py
+  - executemany()
+
+- day3_pymysql_06.py
+  - UPDATE, DELETE
+
 #### 실습과제 DAY_03
-    1. pass
+    1. 2개의 테이블을 생성하고 주어진 문제에 대한 sql문장을 작성하시오.
