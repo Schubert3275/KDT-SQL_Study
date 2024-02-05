@@ -1,0 +1,14 @@
+-- Active: 1706666516440@@127.0.0.1@3306@sakila
+USE sakila;
+
+SELECT
+    CAST('2019-09-17 15:30:00' AS DATETIME);
+
+SELECT
+    CAST('2019-09-17' AS DATE) date_field,
+    CAST('108:17:57' AS TIME)  time_field;
+
+SELECT
+    CURRENT_DATE(),
+    CURRENT_TIME(),
+    CURRENT_TIMESTAMP();

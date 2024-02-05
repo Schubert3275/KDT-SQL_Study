@@ -78,3 +78,24 @@
 
 #### 실습과제 DAY_03
     1. 2개의 테이블을 생성하고 주어진 문제에 대한 sql문장을 작성하시오.
+
+### DAY_04
+    데이터베이스와 SQL
+
+- binary_filecopy.py
+  - 이미지 파일 복사
+
+- pickle_object.py
+  - 객체 저장
+
+- exception01.py
+  - 예외 처리 ZeroDivisionError
+
+- exception02.py
+  - 예외 처리 ValueError
+
+- finally01.py
+  - 예외 처리 finally
+
+- count_letter.py
+  - 각 문자 횟수 세기
